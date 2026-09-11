@@ -1,0 +1,6 @@
+{
+  "name": "IDEAVERSE",
+  "description": "Share Ideas. Inspire Minds. Build Together. A modern social platform for sharing, discovering, and collaborating on ideas through thoughtful text and imagery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
